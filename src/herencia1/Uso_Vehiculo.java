@@ -21,7 +21,7 @@ public class Uso_Vehiculo {
         furgoneta1.configurar_Asientos("no");
         furgoneta1.configurar_Climatizador("si");
         System.out.println( furgoneta1.dime_Asientos()+" "+furgoneta1.dime_Climatizador());
-  
+  System.out.println("FINNNNNNNNN");
        
         
 }}
